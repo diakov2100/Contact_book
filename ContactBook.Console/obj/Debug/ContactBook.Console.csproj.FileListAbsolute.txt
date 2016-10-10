@@ -1,0 +1,6 @@
+D:\облако\мое\ContactBook\ContactBook.Console\bin\Debug\ContactBook.Console.exe.config
+D:\облако\мое\ContactBook\ContactBook.Console\bin\Debug\ContactBook.Console.exe
+D:\облако\мое\ContactBook\ContactBook.Console\bin\Debug\ContactBook.Console.pdb
+D:\облако\мое\ContactBook\ContactBook.Console\obj\Debug\ContactBook.Console.csprojResolveAssemblyReference.cache
+D:\облако\мое\ContactBook\ContactBook.Console\obj\Debug\ContactBook.Console.exe
+D:\облако\мое\ContactBook\ContactBook.Console\obj\Debug\ContactBook.Console.pdb
